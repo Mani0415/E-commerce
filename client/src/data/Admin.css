@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    .container-Product{
+        @apply h-auto block
+    }
+    .product-form{
+        @apply p-5 text-black bg-blue-100 h-auto
+    }
+    .product-details{
+        @apply  block ml-64
+    } 
+    .pro-label{
+        @apply text-wrap
+    }
+    .pro-input{
+        @apply m-5 mx-20 p-2 w-96
+    }
+    .pro-add{
+        @apply bg-blue-400 w-32 h-10 rounded-lg
+    }
+    .pro-add:hover{
+        @apply bg-blue-500
+    }
+    .Admin-details{
+        @apply border-2 border-black h-auto
+    }
+    .Admin-edit{
+        @apply grid grid-cols-3 gap-10 mt-20 m-40
+    }
+    .link-a{
+        @apply shadow-none transition-shadow delay-150 duration-300 cursor-pointer hover:shadow-lg hover:shadow-gray-400
+    }
+}

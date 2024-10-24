@@ -1,0 +1,68 @@
+{
+    "index":[
+        {
+            "id":1,
+            "src":"https://rukminim2.flixcart.com/image/312/312/ko0d6kw0/mixer-grinder-juicer/0/h/u/plus-butterfly-original-imag2kadbfjzzayj.jpeg?q=70",
+            "title":"Butterfly Plus 750 W Juicer Mixer Grinder  ",
+            "descrip":"1 Mixer Grinder, Multi Purpose Jar (1.5 L), Juicer Jar (1.5 L), Grinding Jar (0.75 L), Chutney Jar (400 ml),",
+            "price":"₹3,499",
+            "alt":"good product"
+        },
+        {
+          "id":2,
+          "src": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/y/5/h/-original-imahf3h3ppfx3fer.jpeg?q=70",
+          "title": "boAt Airdopes Alpha with 35 HRS Playback",
+          "descrip": "BEAST Mode: Experience lag-free high-quality gaming with low latency of up to 50 ms., Chutney Jar (400 ml),",
+          "price": "₹799",
+          "alt": "good product"
+        },
+        {
+          "id":3,
+          "src": "https://rukminim2.flixcart.com/image/300/300/kae95e80/television/r/g/m/realme-tv-43-original-imafrz78gbgx3zz5.jpeg?q=70",
+          "title": "realme 108 cm (43 inch) Full HD LED Smart Android TV  (TV 43)",
+          "descrip": "Bring home this TV from realme and experience the stunning visuals that result from its Chroma Boost Picture Engine",
+          "price": "₹28,799",
+          "alt": "good product"
+        },
+        {
+          "id":4,
+          "src": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/0/q/e/-original-imags7pzrywzxc2z.jpeg?q=70",
+          "title": "realme TechLife 7 kg 5 Star rating Semi Automatic Top Load Washing Machine.",
+          "descrip": "You can wash your clothes meticulously with the help of the Realme 7 kg Washing Machine.",
+          "price": "₹7,505",
+          "alt": "good product"
+        },
+        {
+          "id":5,
+          "src": "https://rukminim2.flixcart.com/image/312/312/xif0q/sewing-machine/0/x/h/multifunctional-sewing-machine-with-extension-table-sewing-kit-original-imagqjxy62dkn8hg.jpeg?q=70",
+          "title": "Onshoppy Multifunctional Sewing Machine",
+          "descrip": "This mini Sewing Machine with extension table added a large operation space with metal hook tip.",
+          "price": "₹2,124",
+          "alt": "good product"
+        },
+        {
+          "id":6,
+          "src": "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/b/f/p/-original-imagt3m8g6scfrdn.jpeg?q=70",
+          "title": "PANTENE Hair Fall Control Shampoo Plus Conditioner  (2 Items in the set)",
+          "descrip": "The unique formula, nourishes your hair, giving advanced hair fall protection from the first wash itself.",
+          "price": "₹431",
+          "alt": "good product"
+        },
+        {
+          "id":7,
+          "src": "https://rukminim2.flixcart.com/image/612/612/xif0q/smartwatch/z/r/d/-original-imagywnzhh3dnqvk.jpeg?q=70",
+          "title": "Fastrack Optimus Pro with 1.43 AMOLED Display & AOD(466x466)",
+          "descrip": "Advanced 100+ Sports Modes and Comprehensive 24x7 Health Suite with Auto Stress Monitor, Heart Rate Monitor",
+          "price": "₹2,199",
+          "alt": "good product"
+        },
+        {
+          "id":8,
+          "src": "https://rukminim2.flixcart.com/image/312/312/xif0q/sports-action-camera/3/4/1/-original-imah3g78vvyakhhx.jpeg?q=70",
+          "title": "Akaso V50X 4K Ultra HD,Filters,Adjustable Angle",
+          "descrip": " Featuring a 5.08 cm (2) IPS display, touch screen, and intuitive capture modes, this action camera makes taking great shots easy.",
+          "price": "₹6,899",
+          "alt": "good product"
+        }
+    ]
+}

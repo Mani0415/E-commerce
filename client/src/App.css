@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Thambi+2:wght@400..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Thambi+2:wght@400..800&family=Oi&display=swap');
+
+*{
+  font-family:"Baloo Thambi 2", system-ui;
+  margine:0;
+  padding:0;
+}
+.navbar{
+  background-color:white;
+}
+.li-list{
+  transition:0.7s all;
+}
+.li-list:hover{
+  background-color:#abe4ff;
+}
+.Signup:hover,
+.Login:hover{
+  background-color:#abe4ff;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+.head{
+  @apply  h-14
+}
+.tam{
+  @apply font-bold text-3xl text-center p-4
+}
+.navbar{
+  @apply flex h-10 w-full
+}
+.ul-list{
+  @apply flex
+}
+.li-list{
+  @apply flex text-black items-center justify-center h-10 rounded mx-2 w-36
+  
+}
+/* .li-list:hover{
+  @apply bg-indigo-400
+} */
+.btn-click{
+  @apply flex items-center justify-end gap-1 mx-4 w-full
+}
+.navbar .Login{
+  @apply text-slate-950 h-8 w-14 rounded-full
+}
+.navbar .Signup{
+  @apply text-slate-950 h-8 w-14 rounded-full
+}
+/* .Signup:hover,
+.Login:hover{
+  @apply 
+} */
+.dropMenu{
+  @apply flex bg-violet-400 py-1 px-4 gap-2
+}
+.dropMenu:hover{
+  @apply bg-violet-500/50
+}
+.down-arrow{
+  @apply w-4 h-3  mt-1.5
+}
+.btn-menu{
+  @apply absolute right-7 z-50 w-20 h-auto bg-blue-200 shadow-lg
+}
+.drop-btn{
+  @apply block text-center p-1
+}
+}

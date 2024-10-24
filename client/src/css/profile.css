@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    .container{
+        @apply bg-indigo-50 h-auto
+    }
+    .profile-status{
+        @apply border-2 border-solid w-1/2
+    }
+    .details{
+        @apply border-2 h-auto w-1/2 m-auto mt-14 bg-slate-300 content-center px-5 disabled:border-white
+    }
+    .label-txt{
+        @apply text-black block p-3
+    }
+    .input-txt{
+        @apply p-2 w-60 outline-none text-black
+    }
+    .btn-edits{
+        @apply mt-5 w-56 flex justify-between py-5
+    }
+    .edit-btn{
+        @apply bg-blue-400 px-6 py-1 rounded-xl
+    }
+    .update-btn{
+        @apply bg-teal-300 justify-end px-4 py-1 rounded-xl
+    }
+}

@@ -1,0 +1,50 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+.footer {
+  background-color: rgb(240, 238, 238);
+}
+.footer2 {
+  background-color: black;
+  display: flex;
+  gap: 40px;
+  height: 200px;
+  padding: 10px;
+}
+.about ul li {
+  list-style: none;
+}
+.group ul li {
+  list-style: none;
+}
+.help ul li {
+  list-style: none;
+}
+.policy ul li {
+  list-style: none;
+}
+.mail ul li {
+  list-style: none;
+}
+.address ul li {
+  list-style: none;
+}
+.footer2 h5 {
+  text-align: center;
+}
+.footer h5,
+p {
+  color: gray;
+  padding: 10px;
+}
+.footer p {
+  font-size: 13px;
+}
+.bottom {
+  background-color: black;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}

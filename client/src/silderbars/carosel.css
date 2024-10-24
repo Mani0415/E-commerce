@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    .container-img{
+        @apply relative w-full
+    }
+    .img-silder{
+        @apply relative
+    }
+    .img-silde{
+        @apply ease-in-out
+    }
+    .img-silde .active{
+        @apply opacity-100
+    }
+    .img-silde:not(.active){
+        @apply opacity-0
+    }
+    .silder-btns{
+        @apply flex justify-between relative w-full translate-y-full h-20
+    }
+    .btn-left{
+        @apply bg-white rounded-full w-6
+    }
+    .btn-right{
+        @apply bg-white rounded-full w-6
+    }
+    .img-carsoel{
+        @apply h-60
+    }
+
+}

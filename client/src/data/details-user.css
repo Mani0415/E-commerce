@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    .container-userdetails{
+        @apply h-auto w-auto
+    }
+    .user-table{
+        @apply border
+    }
+    .table-details{
+        @apply border-2 w-full 
+    }
+    .table-row{
+        @apply border text-center
+    }
+}

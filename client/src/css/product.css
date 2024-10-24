@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .container-pro {
+    @apply border my-60 h-96 flex;
+  }
+  .img-pro {
+    @apply flex space-x-32;
+  }
+  .img_001 {
+    @apply h-40 w-40;
+  }
+}
